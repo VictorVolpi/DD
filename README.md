@@ -1,5 +1,6 @@
-# DESIGN DIGITAL
-"Fundamentos em design Digital: Do Zero ao Avançado"
+# ESCOLA TÉCNICA ESTADUAL → ETEC → DESIGN DIGITAL → DD
+
+# "Fundamentos em design Digital: Do Zero ao Avançado"
 
 ### 🟢 Atividade 1 → Banner do Batman.
 
